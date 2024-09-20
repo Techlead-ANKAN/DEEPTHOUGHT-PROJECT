@@ -40,7 +40,7 @@ function gsapEffect() {
 gsapEffect();
 
 
-// Journey Board Opne & Close Logic 
+// Journey Board Open & Close Logic 
 const tl = gsap.timeline({ paused: true });
 leftPanelBtn.addEventListener('click', () => {
 
